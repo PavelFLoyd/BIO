@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pavel</h1>
-<h3 align="center">A beginer frontend developer from Russia</h3>
+<h3 align="center">Frontend developer from Russia</h3>
 
 - 👨‍💻 All of my projects are available at [github.com/PavelFLoyd](github.com/PavelFLoyd)
 
